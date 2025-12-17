@@ -2,7 +2,7 @@
 name = "websearch-fetch-mcp"
 version = "0.1.0"
 description = "Web search and fetch MCP server with ability to convert html to MarkDown"
-authors = "ugovaretto <ugovaretto@gmail.com>"
+authors = ["ugovaretto <ugovaretto@gmail.com>"]
 license = {text = "MIT"}
 dependencies = [
     "fastmcp",
