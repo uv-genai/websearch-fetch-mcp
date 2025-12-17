@@ -8,5 +8,6 @@ dependencies = [
     "fastmcp",
     "requests==2.31.0",
     "html2text",
-    "markdownify==1.2.0",
+    "docling",
+    "deepsearch-toolkit",
 ]
