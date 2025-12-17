@@ -11,3 +11,6 @@ dependencies = [
     "docling",
     "deepsearch-toolkit",
 ]
+
+[project.scripts]
+websearch-fetch-mcp = "server:fastmcp.run"
