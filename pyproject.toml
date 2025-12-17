@@ -1,0 +1,12 @@
+[project]
+name = "websearch-fetch-mcp"
+version = "0.1.0"
+description = "Web search and fetch MCP server with ability to convert html to MarkDown"
+authors = "ugovaretto <ugovaretto@gmail.com>"
+license = {text = "MIT"}
+dependencies = [
+    "fastmcp",
+    "requests==2.31.0",
+    "html2text",
+    "markdownify==1.2.0",
+]
