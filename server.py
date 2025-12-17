@@ -3,7 +3,7 @@ import requests
 import html2text
 import tempfile
 import os
-from docling import DocumentConversionInput
+from docling.datamodel import DocumentConversionInput
 from docling.document_converter import DocumentConverter
 
 fastmcp = FastMCP("websearch-fetch-mcp")
